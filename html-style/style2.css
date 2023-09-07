@@ -1,0 +1,15 @@
+body {
+  /* this is for the body of the about and testimonial sections*/
+  background-color: darkslategray;
+  color: antiquewhite;
+  font-family: "Poor Story", cursive;
+}
+.testimonials {
+  color: black;
+}
+.clearfix {
+  padding: 20px;
+}
+.header {
+  padding: 5px;
+}
